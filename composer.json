@@ -62,5 +62,37 @@
         }
     },
     "minimum-stability": "stable",
-    "prefer-stable": true
+    "prefer-stable": true,
+
+    
+    "authors": [
+        {
+            "name": "Ana Cecilia Reques",
+            "email": "anita.reques@gmail.com"
+        },
+        {
+            "name": "Isla Cruañes",
+            "email": "islacrur@gmail.com"
+        },
+        {
+            "name": "Emilly Senaa",
+            "email": "emillysenaa@gmail.com"
+        },
+        {
+            "name": "Hemi Castillo",
+            "email": "kirabley.hca@gmail.com"
+        },
+        {
+            "name": "Sergio ",
+            "email": "sergiolalu10@gmail.com"
+        },
+        {
+            "name": "Noelia Rey",
+            "email": "noeliareysilva@gmail.com"
+        }, 
+        {
+            "name": "Pilar Sedeño",
+            "email": "mariapilarsedenoduran@gmail.com"
+        }
+    ]
 }
